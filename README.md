@@ -3,13 +3,14 @@ Lugas Anegah Bahalwan
 Cara Instalisasi :
 1. clone project
 2. Jalankan command 'composer install'
-3. Membuat Database Baru
-4. Konfigurasi .env untuk koneksi database dan API RajaOngkir
-5. Jalankan command 'php artisan migrate:fresh'
-6. Jalankan command 'php artisan fetch:data'
-7. hidupkan server xampp/wampp anda
-8. Jalankan command 'php artisan serve'
-9. Buka di dalam browser anda
+3. Hidupkan server xampp/wampp anda
+4. Membuat Database Baru
+5. Konfigurasi .env untuk koneksi database dan API RajaOngkir
+6. Jalankan command 'php artisan migrate:fresh'
+7. Jika Belum memiliki Package rajaonline Laravel, Jalankan command 'composer require rizalafani/rajaongkirlaravel'
+8. Jalankan command 'php artisan fetch:data'
+9. Jalankan command 'php artisan serve'
+10. Buka di dalam browser anda
 
 Knowledge & Experience Questions :
 1. Apa tantangan terbesar yang pernah anda temui saat membuat web application dan
