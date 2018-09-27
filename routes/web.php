@@ -12,5 +12,8 @@
 */
 
 Route::get('/', 'ApiController@index');
+
 Route::get('/search/provinsi', 'ApiController@cariProvinsi');
 Route::get('/search/kota', 'ApiController@cariKota');
+
+
