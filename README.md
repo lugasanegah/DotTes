@@ -34,3 +34,6 @@ software engineering di web application
 bagaimana pengaturan waktu & availability dalam komunikasi dan kolaborasi
 pengerjaan project?
 - iya saya bersedia onsite di malang
+
+Untuk Soal Logika ada di Public/Soal_Logika/Index.php
+
